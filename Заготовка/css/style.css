@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    background-color: #B41515;
+}
+nav{
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    font-family: "Century";
+    background-color: rgba(101, 6, 6, 0.8);
+    
+}
+header{
+    font-size: 25px;
+    color: #FF7E9A;
+}
+li{
+    font-size: 20px;
+    color: #0CF2FA;
+}
+body{
+    background-color: #B41515;
+}
+
